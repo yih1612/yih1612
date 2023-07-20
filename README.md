@@ -1,11 +1,10 @@
-### <div align='center'> 👋 It's me 👋 </div>
-<div align='center'>
-  안녕하세요 <br/> 어제보다는 나은 사람이 되고싶은 <br/> 유인환입니다
-</div>
+## <div align='center'> 👋 It's me 👋 </div>
 
-<br/><br/>
+#### <div align='center'> 안녕하세요 <br/> 어제보다는 나은 사람이 되고 싶은 <br/> 유인환입니다 </div>
 
-### <div align='center'> 📚 Skills 📚 </div>
+<br/>
+
+## <div align='center'> 📚 Skills 📚 </div>
 
 <div align='center'>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -16,7 +15,7 @@
 
 <br/><br/>
 
-### <div align='center'> 📬 Follow Me 📬 </div>
+## <div align='center'> 📬 Follow Me 📬 </div>
 
 <div align='center'>
   <a href='mailto:yih1612@gmail.com'>
