@@ -25,8 +25,8 @@
 <!-- ## <div align='center'> 📬 Follow Me 📬 </div> -->
 ## Follow Me 📬
 
-<a href='mailto:yih1612@gmail.com'>
-  <img src="https://img.shields.io/badge/ GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"&link=mailto:yih1612@gmail.com/> 
+<a href='mailto:yih1612@naver.com'>
+  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"&link=mailto:yih1612@gmail.com/> 
 </a>
 
 <!-- <div align='center'>
